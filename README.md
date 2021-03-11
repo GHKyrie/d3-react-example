@@ -1,6 +1,6 @@
 # Author's note
 
-This app is an application example of an React+D3 application. Taken from a book
+This app is an example of an React + D3 application. Taken from a book
 
 # Getting Started with Create React App
 
